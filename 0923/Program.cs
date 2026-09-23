@@ -67,7 +67,7 @@
 
             //    Console.WriteLine(count + "만큼 반복했습니다.");
             //}
-
+            //별 삼각형 만들기 반짤린
             for (int i = 0; i < 10; i++)
             {
                 for (int j = 0; j < 10 - i; j++)
@@ -77,6 +77,25 @@
                 Console.Write('\n');
             }
 
+            //루프문
+            //for
+            //while
+            //do while
+            
+            //break, continue
+
+            //문자열
+            //ToUpper, To
+            요소,대괄호,Length,break,continue,1
+            2
+            3
+            3
+            2
+            2
+            3
+            2
+            1
+            
 
         }
     }
